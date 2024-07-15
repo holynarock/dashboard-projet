@@ -1,0 +1,25 @@
+.label {
+    height: 21px;
+    width: 60px;
+}
+
+.label .k-DASH {
+    color: transparent;
+    font-family: "Rozha One-Regular", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 0;
+    width: 60px;
+}
+
+.label .text-wrapper {
+    color: #000000;
+}
+
+.label .span {
+    color: #ffffff;
+}
